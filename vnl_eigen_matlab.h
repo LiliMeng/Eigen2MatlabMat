@@ -2,7 +2,7 @@
 //  vnl_eigen_matlab.h
 //  RandomFeatureRegistration
 //
-//  Created by jimmy on 12/10/16.
+//  Created by Lili on 12/10/16.
 //  Copyright (c) 2016 UBC. All rights reserved.
 //
 
